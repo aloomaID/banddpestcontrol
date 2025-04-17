@@ -1,0 +1,10 @@
+/var/www/html/banddpestcontrol/fix.py:27: XMLParsedAsHTMLWarning: It looks like you're parsing an XML document using an HTML parser. If this really is an HTML document (maybe it's XHTML?), you can ignore or filter this warning. If it's XML, you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the lxml package installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+  soup = BeautifulSoup(op, "lxml")
+Error communicating: [Errno 21] Is a directory: 'pest-control/static/wp-includes/css'
+Error communicating: [Errno 21] Is a directory: 'pest-control/static/wp-includes/js'
+Error communicating: [Errno 21] Is a directory: 'pest-control/static/wp-content/themes'
+Error communicating: [Errno 21] Is a directory: 'pest-control/static/wp-content/et-cache'
+Error communicating: [Errno 21] Is a directory: 'pest-control/static/wp-content/uploads'
+Error communicating: [Errno 21] Is a directory: 'pest-control/static/wp-json/wp'
+Error communicating: [Errno 21] Is a directory: 'pest-control/static/wp-json/oembed'
+Error communicating: [Errno 21] Is a directory: 'pest-control/static/comments/feed'
